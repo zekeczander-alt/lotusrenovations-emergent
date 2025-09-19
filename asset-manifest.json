@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lotusrenovations-emergent/static/css/main.85bafb07.css",
+    "main.js": "/lotusrenovations-emergent/static/js/main.3f23b0bd.js",
+    "index.html": "/lotusrenovations-emergent/index.html",
+    "main.85bafb07.css.map": "/lotusrenovations-emergent/static/css/main.85bafb07.css.map",
+    "main.3f23b0bd.js.map": "/lotusrenovations-emergent/static/js/main.3f23b0bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85bafb07.css",
+    "static/js/main.3f23b0bd.js"
+  ]
+}
